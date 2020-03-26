@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><properties version="1.0">
+	<entry key="type">cm:content</entry>
+	<entry key="aspects">cm:versionable</entry>
+	<entry key="cm:title">High Court Order Document</entry>
+	<entry key="cm:description">Uploaded via HCO Bulk Tool</entry>
+	<entry key="cm:author"/>
+	<entry key="cm:created">created_date</entry>
+	<entry key="cm:owner">Administrator</entry>
+	<entry key="acn:HCOCaseType">OO</entry>
+	<entry key="acn:HCOCaseNumber">2233</entry>
+	<entry key="acn:HCOCaseDate">2010-03-03</entry>
+</properties>
