@@ -124,6 +124,7 @@ public class FileManipulation {
 		boolean state = true;
 		LocalDate date;
 		//if more than one '.' the system will detect abnormality
+		//
 		String [] file_n = file_name.split("\\.");
 		if (file_n.length > 2)
 			return false;
