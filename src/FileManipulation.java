@@ -128,7 +128,7 @@ public class FileManipulation {
 		String [] file_n = file_name.split("\\.");
 		if (file_n.length > 2)
 			return false;
-		state = file_n[0].matches("^[a-zA-Z]*_[0-9]{4}_[0-9]{6}");
+		state = file_n[0].matches("^[a-zA-Z]{1,2}_[0-9]{4}_[0-9]{6}");
 		for (String part : file_n[0].split("_")){
 			if(state) {
 				if(part.length() < 3) {
