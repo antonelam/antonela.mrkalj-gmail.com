@@ -127,15 +127,15 @@ public class FileManipulation {
 		String [] file_n = file_name.split("\\.");
 		if (file_n.length > 2)
 			return false;
-		
+		state = file_n[0].matches("^[a-zA-Z]*_[0-9]{4}_[0-9]{6}");
 		for (String part : file_n[0].split("_")){
 			if(state) {
 				if(part.length() < 3) {
-					state = part.matches("[A-Za-z]+");
+					//state = part.matches("[A-Za-z]+");
 					values[0] = part;
 				}
 				else if(part.length() == 4) {
-					state = part.matches("[0-9]+");
+					//state = part.matches("[0-9]+");
 					values[1] = part;
 				}
 				else if(part.length() == 6) {

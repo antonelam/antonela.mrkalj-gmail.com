@@ -1,8 +1,9 @@
 C:\Users\antonela.mrkalj\git\xml_generate\TEST\11_0000_121212.docx
+C:\Users\antonela.mrkalj\git\xml_generate\TEST\260320_DB_1100.docx
 C:\Users\antonela.mrkalj\git\xml_generate\TEST\AX_1111_20022020.docx
 C:\Users\antonela.mrkalj\git\xml_generate\TEST\CC_0202_112200.docx
-C:\Users\antonela.mrkalj\git\xml_generate\TEST\O0_2233_030310.doc
-C:\Users\antonela.mrkalj\git\xml_generate\TEST\OO_2233_030310 - Copy.doc
+C:\Users\antonela.mrkalj\git\xml_generate\TEST\O _2233_030310.doc
+C:\Users\antonela.mrkalj\git\xml_generate\TEST\OAC_2233_030310.doc
 C:\Users\antonela.mrkalj\git\xml_generate\TEST\OO_2233_03031012.doc
 C:\Users\antonela.mrkalj\git\xml_generate\TEST\OO_223x_030310.doc
 C:\Users\antonela.mrkalj\git\xml_generate\TEST\SS_1010._231220.docx
