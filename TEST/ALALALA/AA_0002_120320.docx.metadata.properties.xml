@@ -6,7 +6,7 @@
 	<entry key="cm:author"/>
 	<entry key="cm:created">created_date</entry>
 	<entry key="cm:owner">Administrator</entry>
-	<entry key="acn:HCOCaseType">case_type1</entry>
-	<entry key="acn:HCOCaseNumber">case_number1</entry>
-	<entry key="acn:HCOCaseDate">case_date1</entry>
+	<entry key="acn:HCOCaseType">AA</entry>
+	<entry key="acn:HCOCaseNumber">0002</entry>
+	<entry key="acn:HCOCaseDate">2020-03-12</entry>
 </properties>
